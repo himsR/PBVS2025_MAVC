@@ -9,7 +9,7 @@ python simple_baselines.py --train_folder ../Unicorn_Dataset/Unicorn_Dataset/SAR
 
 python simple_baselines.py --test_only True --test_folder [test_folder] --model_path [model]
 
-test folder is the competition folder in following structure
+test folder is the competition test images in following structure
 
 - test
     - examples
