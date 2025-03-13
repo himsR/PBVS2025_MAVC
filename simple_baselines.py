@@ -16,7 +16,6 @@ import numpy as np
 from sklearn.metrics import RocCurveDisplay
 from sklearn.metrics import roc_auc_score
 import os
-from focal_loss import FocalLoss 
 
 
 def parse_args():
